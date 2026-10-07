@@ -1,4 +1,4 @@
-# Kacknex SWE Agent
+# Hacknex SWE Agent
 
 **An AI software engineer that must prove its fix before it is allowed to change your code.**
 
