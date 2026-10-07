@@ -1,0 +1,9 @@
+[
+  "demo-repo/tests/test_cart.py::test_count",
+  "demo-repo/tests/test_cart.py::test_total_with_discount",
+  "demo-repo/tests/test_cart.py::test_total_without_discount",
+  "demo-repo/tests/test_pricing.py::test_format_money",
+  "demo-repo/tests/test_pricing.py::test_invalid_percent",
+  "demo-repo/tests/test_pricing.py::test_no_discount",
+  "demo-repo/tests/test_pricing.py::test_ten_percent_discount"
+]
